@@ -1,4 +1,5 @@
-# MiniDB
+# MiniDB <a target="_blank" title="Picked off of Google Images"><img width="40" alt="gowebly logo" src="https://www.svgrepo.com/show/76996/database.svg"></a>
+
 ## Project Description
 MiniDB is a light-weight database management system. It consists of:
 - Classes that represent fields, tuples, and tuple schemas;
