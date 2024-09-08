@@ -1,3 +1,9 @@
+*.DS_Store
+build/
+cmake-build-debug/
+*.dat
+
+
 # Prerequisites
 *.d
 
